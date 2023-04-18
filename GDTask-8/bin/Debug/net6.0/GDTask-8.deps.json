@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GDTask-8/1.0.0": {
+        "runtime": {
+          "GDTask-8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GDTask-8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
